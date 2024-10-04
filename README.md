@@ -6,7 +6,7 @@ Analisis ini dimulai dari gathering, assesing, cleaning, exploratory data anaysi
 - Bagaimana peminat penyewaan sepeda berdasarkan cuaca dan jam?
 
 # Setup Environment - Shell/Terminal  
-git clone https://github.com/naddyaaa/bike-sharing-simple-analytics.git
+git clone https://github.com/naddyaaa/bike-sharing-simple-analytics.git  
 cd bike-sharing-simple-analytics
 pipenv install  
 pipenv shell  
