@@ -25,7 +25,7 @@ def create_rfm(df):
     return hour_weather_group
 
 #read data yang disimpan sebelumnya
-all_df = pd.read_csv("main_data.csv")
+all_df = pd.read_csv("/mount/src/bike-sharing-simple-analytics/dashboard/main_data.csv")
 
 #ubah 1-7 menjadi nama hari, ini untuk kolom weekday
 day_map = {
